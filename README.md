@@ -40,10 +40,10 @@ I'm thrilled to accompany you on this exhilarating coding odyssey! Whether you h
 **Personal Social Links:**
 Feel free to connect with me on other platforms:
 - 📧 Email: dev.shaid.hasan@gmail.com
-- 💬 Discord: [shaid30044](discordapp.com/users/1116791388760186990) (Feel free to add me! Username#1234)
+- 💬 Discord: [shaid30044](discordapp.com/users/1116791388760186990) (Feel free to add me! shaid30044)
 
 **Discord Channel:**
 Join our Discord channel for problem-solving discussions and collaboration:
-- Discord: [Dark Matter Debuggers (DMD) 🔮🤖](https://discord.gg/X4cP8VdvnC) (Feel free to add me! Username#1234)
+- Discord: [Dark Matter Debuggers (DMD) 🔮🤖](https://discord.gg/X4cP8VdvnC) (Feel free to add me! shaid30044)
 
 Together, let's unlock the mysteries of algorithms and celebrate the joy of coding! Happy coding, and may the algorithms be ever in your favor! 🌟🎉
