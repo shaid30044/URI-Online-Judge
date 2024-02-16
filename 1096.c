@@ -2,14 +2,15 @@
 
 int main()
 {
-    int i, j;
+    int i, j, jIdx = 7;
 
     for (i = 1; i <= 9; i += 2)
     {
-        for (j = 7; j >= 5; j--)
+        for (j = jIdx; j >= jIdx - 2; j--)
         {
             printf("I=%d J=%d\n", i, j);
         }
+        jIdx += 2;
     }
 
     return 0;
