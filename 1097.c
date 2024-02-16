@@ -2,15 +2,21 @@
 
 int main()
 {
-    int i, j, jIdx = 7;
+    float i, j;
 
-    for (i = 1; i <= 9; i += 2)
+    for (i = 0; i <= 2.2; i += 0.2)
     {
-        for (j = jIdx; j >= jIdx - 2; j--)
+        for (j = 1; j <= 3; j++)
         {
-            printf("I=%d J=%d\n", i, j);
+            if ((i > 0 && i < 1) || (i > 1 && i < 2))
+            {
+                printf("I=%.1f J=%.1f\n", i, j + i);
+            }
+            else
+            {
+                printf("I=%.0f J=%.0f\n", i, j + i);
+            }
         }
-        jIdx += 2;
     }
 
     return 0;
